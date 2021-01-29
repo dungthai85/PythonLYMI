@@ -1,6 +1,9 @@
 Refresher on basics and also learning more advanced topics using Python.
 
 
+https://www.pythonlikeyoumeanit.com/index.html
+
+
 There are 5 modules
 
 
